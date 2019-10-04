@@ -1,2 +1,2 @@
 # LeetCode
-The code I wrote and submitted on LeetCode.com.
+The code I wrote and submitted to LeetCode.com.
